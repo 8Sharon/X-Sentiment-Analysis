@@ -1,5 +1,7 @@
 # 📘 X Sentiment Analysis
 
+![A View of Sentiment Analysis](https://www.researchgate.net/profile/Musheer-Ahmad-3/publication/356618854/figure/fig1/AS:1125265816190976@1645295685136/A-View-of-Sentiment-Analysis.ppm)
+
 # ⚠️ Disclaimer
 All datasets, information, and reports within this repository are fictional and created solely for illustrative purposes to showcase advanced predictive machine learning techniques. They do not include any real proprietary, confidential, or sensitive information related to any company, organization, or individual.
 
@@ -52,9 +54,3 @@ The performance of the Random Forest Classifier is evaluated using the **F1-Scor
 - **F1-Score Calculation**: The harmonic mean of precision and recall is computed for each sentiment class (Positive, Negative, Neutral).
 - **Confusion Matrix**: A matrix is generated to visualize the model's classification performance across different sentiment labels.
 
-
-The results are analyzed to identify areas for improvement, such as addressing class imbalances or experimenting with other models for comparison.
-
----
-
-*Generated on April 11, 2025*
