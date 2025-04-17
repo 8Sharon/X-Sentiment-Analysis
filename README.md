@@ -1,6 +1,9 @@
 # 📘 X Sentiment Analysis
-> This project uses machine learning to classify text into positive, negative, or neutral sentiments.  
-> Ideal for analyzing social media, customer feedback, or market trends.
+
+1. This project uses machine learning to classify text into positive, negative, or neutral sentiments.  
+2. Ideal for analyzing social media, customer feedback, or market trends.
+
+   
 
 ![A View of Sentiment Analysis](https://miro.medium.com/v2/resize:fit:689/1*jHzNpL-KagnaHUSHzPTPkA.jpeg)
 
