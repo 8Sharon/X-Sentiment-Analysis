@@ -1,4 +1,6 @@
 # 📘 X Sentiment Analysis
+> This project uses machine learning to classify text into positive, negative, or neutral sentiments.  
+> Ideal for analyzing social media, customer feedback, or market trends.
 
 ![A View of Sentiment Analysis](https://miro.medium.com/v2/resize:fit:689/1*jHzNpL-KagnaHUSHzPTPkA.jpeg)
 
@@ -11,7 +13,10 @@ All datasets, information, and reports within this repository are fictional and 
 2. [Dataset](#dataset)
 3. [Model Training](#model-training)
 4. [Evaluation](#evaluation)
+5. [Contacts](#contacts)
 
+
+  
 ## 🧠 Introduction
 This project focuses on analyzing the sentiment expressed in textual data, classifying it as **Positive**, **Negative**, or **Neutral**. Sentiment analysis is a powerful tool for understanding opinions and emotions in various applications, including:
 
@@ -55,3 +60,8 @@ The performance of the Random Forest Classifier is evaluated using the **F1-Scor
 - **F1-Score Calculation**: The harmonic mean of precision and recall is computed for each sentiment class (Positive, Negative, Neutral).
 - **Confusion Matrix**: A matrix is generated to visualize the model's classification performance across different sentiment labels.
 
+## 📬 Contacts
+For inquiries, collaborations, or feedback, feel free to reach out:
+
+- 📧 Email: [njerisharon611@gmail.com](njerisharon611@gmail.com)   
+- 🌐 GitHub: [Sentiment-X Repo](https://github.com/8Sharon/X-Sentiment-Analysis)
