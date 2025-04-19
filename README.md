@@ -13,10 +13,12 @@ All datasets, information, and reports within this repository are fictional and 
 
 ## 📑 Table of Contents
 1. [Introduction](#introduction)
-2. [Dataset](#dataset)
-3. [Model Training](#model-training)
-4. [Evaluation](#evaluation)
-5. [Contacts](#contacts)
+2. [Problem Statement](#problem-statement)
+3. [Objective](#objective) 
+4. [Dataset](#dataset)
+5. [Model Training](#model-training)
+6. [Evaluation](#evaluation)
+7. [Contacts](#contacts)
 
 
   
@@ -28,6 +30,22 @@ This project focuses on analyzing the sentiment expressed in textual data, class
 - Market trend analysis
 
 By leveraging machine learning techniques, this project aims to accurately predict sentiment from text samples, providing valuable insights for decision-making.
+
+## ❓ Problem Statement
+With the increasing volume of text data generated through platforms like social media, product reviews, and customer service interactions, it becomes challenging to manually analyze public or customer sentiment. Organizations need a scalable and accurate method to understand opinions and emotional tone from large datasets in real-time.
+
+---
+
+## 🎯 Objective
+The primary objective of this project is to build a sentiment classification system using machine learning that can:
+
+- Accurately classify textual data into **Positive**, **Negative**, or **Neutral** sentiment.  
+- Handle diverse and unstructured text data efficiently.  
+- Provide performance metrics that help in understanding the model’s strengths and weaknesses.  
+- Serve as a foundational tool for real-world applications such as social listening, brand analysis, and feedback interpretation.
+
+---
+
 
 ## 📊 Dataset
 The dataset used for this project consists of text samples paired with their corresponding sentiment labels. The key features of the dataset include:
@@ -65,6 +83,6 @@ The performance of the Random Forest Classifier is evaluated using the **F1-Scor
 
 ## 📬 Contacts
 For inquiries, collaborations, or feedback, feel free to reach out:
-
+**project lead:** Sharon Kamau
 - 📧 Email: [njerisharon611@gmail.com](njerisharon611@gmail.com)   
 - 🌐 GitHub: [Sentiment-X Repo](https://github.com/8Sharon/X-Sentiment-Analysis)
