@@ -83,6 +83,6 @@ The performance of the Random Forest Classifier is evaluated using the **F1-Scor
 
 ## 📬 Contacts
 For inquiries, collaborations, or feedback, feel free to reach out:
-**project lead:** Sharon Kamau
+-**project lead:** Sharon Kamau
 - 📧 Email: [njerisharon611@gmail.com](njerisharon611@gmail.com)   
 - 🌐 GitHub: [Sentiment-X Repo](https://github.com/8Sharon/X-Sentiment-Analysis)
